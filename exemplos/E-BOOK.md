@@ -13,4 +13,4 @@ Utilizei o "ChatGPT" para estruturar o conteúdo e refinar minhas ideias. Por ou
 
 ## 🚀 Resultados
 
-
+https://github.com/rafhajs/lab-natty-or-not/blob/main/guianbb.pdf
